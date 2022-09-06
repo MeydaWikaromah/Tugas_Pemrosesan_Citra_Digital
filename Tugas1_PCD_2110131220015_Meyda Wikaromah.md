@@ -2,6 +2,9 @@
 # nim : 2110131220015
 # matkul : PCD
 
+# nama : Naila Hasanah
+# nim : 2110131220007
+
 # Pemrosesan Citra Digital
 ## **Proses Pembentukan Gambar Pada MRI Scan**
 
