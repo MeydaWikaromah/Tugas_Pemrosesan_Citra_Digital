@@ -1,5 +1,6 @@
 # nama : Meyda Wikaromah
 # nim : 2110131220015
+# matkul : PCD
 
 # Pemrosesan Citra Digital
 ## **Proses Pembentukan Gambar Pada MRI Scan**
