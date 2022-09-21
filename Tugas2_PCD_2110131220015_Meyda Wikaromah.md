@@ -44,10 +44,10 @@ Layer 3 (Blue).
 
 Contoh penggunaan fungsi :
 
-![Gambar](gambar/fungsi1.png)
+![Gambar](gambar/fungsi11.png)
 
 Setelah di Run :
 
-![Gambar](gambar/fungsi2.png)
+![Gambar](gambar/fungsi12.png)
 
 Akan tampil gambar yang sedang dianalisis dan histogram dari gambar tersebut.
