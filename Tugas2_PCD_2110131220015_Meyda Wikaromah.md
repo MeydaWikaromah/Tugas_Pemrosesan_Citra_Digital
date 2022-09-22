@@ -14,24 +14,35 @@ citra RGB adalah 256 x 256 x 256 = 16.777.216 kombinasi warna.
 
 Berikut hasil eksplorasi layer pada aplikasi octave :
 
-![Gambar](gambar/octave1.png)
+Kode program :
+
+<p align = "center">
+    <img src = gambar/code.png>
+</p>
 
 Setelah di Run :
 
-![Gambar](gambar/figur1.png)
+<p align = "center">
+    <img src = gambar/figure1.png>
+</p>
 
 Gambar yang dianalisis.
 
-![Gambar](gambar/figur2.png)
+<p align = "center">
+    <img src = gambar/figure2.png>
+</p>
 
 Layer 1 (Red).
 
-![Gambar](gambar/figur3.png)
+<p align = "center">
+    <img src = gambar/figure3.png>
+</p>
 
 Layer 2 (Green).
 
-![Gambar](gambar/figur4.png)
-
+<p align = "center">
+    <img src = gambar/figure4.png>
+</p>
 Layer 3 (Blue).
 
 ### **2. Fungsi imread, imshow, imhist.**
@@ -42,12 +53,20 @@ Layer 3 (Blue).
 
 - imhist merupakan fungsi yang digunakan untuk menampilkan gambar dengan bentuk histogram.
 
-Contoh penggunaan fungsi :
+Contoh hasil dari penggunaan fungsi :
 
-![Gambar](gambar/fungsi11.png)
+<p align = "center">
+    <img src = gambar/figure5.png>
+</p>
 
-Setelah di Run :
+<p align = "center">
+    <img src = gambar/figure6.png>
+</p>
 
-![Gambar](gambar/fungsi12.png)
+<p align = "center">
+    <img src = gambar/figure7.png>
+</p>
 
-Akan tampil gambar yang sedang dianalisis dan histogram dari gambar tersebut.
+<p align = "center">
+    <img src = gambar/figure8.png>
+</p>
