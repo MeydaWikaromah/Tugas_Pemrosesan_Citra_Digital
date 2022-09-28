@@ -21,9 +21,18 @@ Berikut contoh penerapan ketiga method tersebut.
     <img src = "gambar/codemethod.png">
 </p>
 
+- grayscale1 = (min(R,G,B)+max(R,G,B))/2; adalah rumus yang digunakan untuk mengubah citra RGB menjadi grayscale menggunakan Lightness Method.
+
+- grayscale2 = (R+G+B)/3; adalah rumus yang digunakan untuk mengubah citra RGB menjadi grayscale menggunakan Average Method.
+
+- grayscale3 = 0.3*R + 0.59*G + 0.11*B; adalah rumus yang digunakan untuk mengubah citra RGB menjadi grayscale menggunakan Luminosity Method.
+
+
+Hasil :
 <p align = "center">
     <img src = "gambar/method.png">
 </p>
+
 
 ## **Ulasan tentang Halftoning, Patterning, dan Dithering**
 
@@ -38,7 +47,7 @@ Halftoning bertujuan untuk memberikan kesan warna citra biner tampak seperti cit
 
 **b. Patterning**
 
-Patterning adalah teknik sederhana memberi warna pada objek gambar dengan pola-pola tertentu. Patterning mengubah ukuran sesuai dengan pola.
+Patterning adalah teknik sederhana memberi warna pada objek gambar dengan pola-pola tertentu. Patterning mengubah ukuran sesuai dengan pola. Patterning mewarnai dengan mengisi bidang kosong dengan pola yang di gambar secara berulang.
 
 **c. Dithering**
 
