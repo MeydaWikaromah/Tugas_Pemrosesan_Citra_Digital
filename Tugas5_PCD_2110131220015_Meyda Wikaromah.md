@@ -4,6 +4,49 @@
 
 **Mata Kuliah : Pemrosesan Citra Digital**
 
+## **Bit-plane Slicing**
+
+Bit-plane slicing merupakan metode yang digunakan untuk melihat konstribusi atau pengaruh tiap bit penyusun citra. Untuk citra 8 bit, pada dasarnya tiap intensitas yang nilainya dalam format decimal, bisa dipecah menjadi bit-bit dalam format biner. Misalnya, sebuah pixel dengan intensitas 245 (decimal) bila dijadikan biner adalah 11110101.
+
+- Tujuan: Menonjolkan kontribusi dari bit tertentu di dalam citra.
+
+- Misalkan satu pixel = 8 bit. Bit-bit tersusun dari kiri ke kanan dalam urutan yang kurang berarti (least significant bits atau LSB) hingga bit-bit yang berarti (most significant bits atau MSB).
+
+- Susunan bit pada setiap byte adalah b7 b6 b5 b4 b3 b2 b1 b0
+
+Contoh: 
+
+<p align = "center">
+    <img src = "gambar/bps.png">
+</p>
+
+- Jika setiap bit dari setiap pixel diambil, maka diperoleh 8 buah bidang
+(bit-plane).
+
+<p align = "center">
+    <img src = "gambar/bps2.png">
+</p>
+
+Contoh :
+
+<p align = "center">
+    <img src = "gambar/bps3.png">
+</p>
+
+Contoh penerapan pada Octave :
+
+Contoh :
+
+<p align = "center">
+    <img src = "gambar/bps4.png">
+</p>
+
+Contoh :
+
+<p align = "center">
+    <img src = "gambar/bps5.png">
+</p>
+
 ## **Simple Steganografi**
 
 **1. Pengertian Steganografi**
