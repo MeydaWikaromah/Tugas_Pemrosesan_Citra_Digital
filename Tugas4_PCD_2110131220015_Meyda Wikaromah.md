@@ -4,11 +4,11 @@
 
 **Mata Kuliah : Pemrosesan Citra Digital**
 
-## **Membuat Algoritma Deskripsi.**
+## **Membuat Algoritma Deskripsi dan Contoh Penerapannya pada Octave**
 
 **1. Patterning**
 
-algoritma :
+Algoritma :
 
 1). Menyedikan citra matriks.
 
@@ -22,9 +22,27 @@ algoritma :
 
 6). Menerapkan pola sesuai dengan nilai-nilai pada citra matriks sehingga menghasilkan pola yang baru.
 
+Contoh penerapannya pada Octave :
+
+function Pattern yang menyimpan pola-pola :
+
+<p align = "center">
+    <img src = "gambar/patterning.png">
+</p>
+
+<p align = "center">
+    <img src = "gambar/patterning1.png">
+</p>
+
+Hasil :
+
+<p align = "center">
+    <img src = "gambar/patterning2.png">
+</p>
+
 **2. Dithering**
 
-algoritma :
+Algoritma :
 
 1). Menyediakan citra matriks.
 
@@ -34,22 +52,22 @@ algoritma :
 
 4). Dari hasil perbandingan nilai maka akan terbentuk sebuah pola.
 
-Contoh algoritma pada octave :
+Contoh penerapannya pada Octave :
 
 <p align = "center">
-    <img src = "gambar/dither1.png">
+    <img src = "gambar/dithering1.png">
 </p>
 
 Hasil :
 
 <p align = "center">
-    <img src = "gambar/dither2.png">
+    <img src = "gambar/dithering2.png">
 </p>
 
 
 **3. Histogram Equalization**
 
-algoritma :
+Algoritma :
 
 1). Menentukan Gray Level dan No of Pixel.
 
@@ -60,6 +78,16 @@ algoritma :
 4). Multiply 7 (mengalikan setiap nilai yang telah di normalized dengan 7)
 
 5). Hasil dari multiply 7 menentukan perubahan dari tiap-tiap nilai pada No of Pixel.
+
+Contoh penerapannya pada Octave :
+
+<p align = "center">
+    <img src = "gambar/histeq1.png">
+</p>
+
+<p align = "center">
+    <img src = "gambar/histeq2.png">
+</p>
 
 **4. Bit-plane Slicing**
 
@@ -73,7 +101,7 @@ Algoritma :
 
 4). Dari pengambilan tiap-tiap bit dapat ditentukan LSB (Last Significan Bit) dan MSB (Most Significan Bit).
 
-Contoh algoritma pada octave :
+Contoh penerapannya pada Octave :
 
 <p align = "center">
     <img src = "gambar/bitplane1.png">
