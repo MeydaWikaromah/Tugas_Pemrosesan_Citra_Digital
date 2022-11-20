@@ -1,11 +1,11 @@
-# nama : Meyda Wikaromah
-# nim : 2110131220015
-# matkul : PCD
+**Nama Kelompok :**
 
-# nama : Naila Hasanah
-# nim : 2110131220007
+**1. Meyda Wikaromah (2110131220015)**
 
-# Pemrosesan Citra Digital
+**2. Naila Hasanah (2110131220007)**
+
+# **Pemrosesan Citra Digital**
+
 ## **Proses Pembentukan Gambar Pada MRI Scan**
 
 ![Gambar](https://ahcc.co.id/wp-content/uploads/2020/04/MRI-Kanker-di-AHCC.jpg)
