@@ -88,6 +88,22 @@ Hasil :
 
 #### 1. Manual
 
+Kode program :
+
+<p align = "center">
+    <img src = "gambar/hbfmanual1.png">
+</p>
+
+<p align = "center">
+    <img src = "gambar/hbfmanual2.png">
+</p>
+
+Hasil :
+
+<p align = "center">
+    <img src = "gambar/hbfmanual3.png">
+</p>
+
 #### 2. Menggunakan fungsi pada octave
 
 Kode program :
@@ -135,6 +151,12 @@ Hasil :
 ### **EDGE DETECTION**
 
 #### 1. Manual
+
+Kode program :
+
+<p align = "center">
+    <img src = "gambar/edgemanual.png">
+</p>
 
 #### 2. Menggunakan fungsi pada octave
 
