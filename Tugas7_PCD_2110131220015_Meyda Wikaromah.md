@@ -1,3 +1,5 @@
+**Kelompok 1**
+
 **Nama : Meyda Wikaromah**
 
 **Nim : 2110131220015**
@@ -155,7 +157,12 @@ Hasil :
 Kode program :
 
 <p align = "center">
-    <img src = "gambar/edgemanual.png">
+    <img src = "gambar/edgem1.png">
+</p>
+
+Hasil :
+<p align = "center">
+    <img src = "gambar/edgem2.png">
 </p>
 
 #### 2. Menggunakan fungsi pada octave
